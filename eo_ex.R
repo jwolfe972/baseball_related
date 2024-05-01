@@ -1,3 +1,4 @@
+install.packages('tidyverse')
 library(tidyverse)
 
 eo_data <- read_csv('analyzing_baseball_data_w_r/datasets/eovaldi_all_pitches.csv')
